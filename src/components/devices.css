@@ -1,0 +1,26 @@
+.maindevice{
+    margin-left:30px;
+}
+.devicehead{
+    font-weight: 500;
+}
+.deviceitems img {
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 5px grey;
+}
+
+.deviceitems{
+    display: flex;
+    margin: 20px;
+    height: auto;
+    overflow-x: auto;
+}
+.deviceitems::-webkit-scrollbar{
+    width: 0;
+}
+
+.deviceitems a{
+    margin-right: 10px;
+}

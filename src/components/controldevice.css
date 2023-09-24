@@ -1,0 +1,27 @@
+.main{
+    height: auto;
+    
+    margin-left:30px;
+}
+ .main p{
+    font-weight: 500;
+    margin-bottom: 0px;
+ }
+ .main span{
+    font-weight:200;
+    font-size: 15px;
+    
+ }
+ .contdevices{
+    margin-top: 10px;
+ }
+.alexa {
+    text-decoration: none;
+}
+.gassistant{
+    text-decoration: none;
+   
+}
+.gassistant img {
+    height: 40px;
+}

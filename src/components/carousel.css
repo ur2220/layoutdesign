@@ -1,0 +1,67 @@
+
+.cardsection{
+    margin-left: 30px;
+
+    
+}
+
+.caro-card{
+    background-color: rgb(89, 191, 89);
+    width:160px;
+    height:160px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px 5px;
+    
+}
+.roomcards a {
+    margin: auto;
+  text-decoration: none;
+  
+}
+.roomcards{
+    overflow-x: auto;
+}
+.roomcards::-webkit-scrollbar{
+    width:0;
+   
+}
+
+.caro-card h6{
+    margin: 0px auto 20px auto ;
+    color: white;
+}
+.caro-card p{
+    margin: 10px auto 20px 20px ;
+    color: white;
+    
+}
+.caro-card span {
+     color: white;
+     font-size:12px;
+     margin-left: 18px;
+}
+
+/* card colors are here */
+.card-bedroom1{
+    background-color: rgb(251, 128, 6);
+}
+.card-bedroom2{
+    background-color: rgb(232, 94, 117);
+}
+.card-washroom1{
+    background-color: rgb(67, 181, 227);
+}
+.card-washroom2{
+    background-color: rgb(31, 194, 34);
+}
+
+.card-office{
+    background-color: rgb(11, 108, 187);
+}
+.card-other{
+    background-color: rgb(245, 176, 49);
+}
+
