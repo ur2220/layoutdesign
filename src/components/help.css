@@ -1,0 +1,25 @@
+.helpmain{ 
+  
+    height: 500px;
+    width: 400px;
+ 
+ margin:auto;
+}
+.imgsec img {
+    border-radius: 50%;
+   
+ 
+}
+
+.imgsec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.instructions{
+
+    margin-top: 150px;
+}
