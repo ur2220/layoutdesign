@@ -1,0 +1,68 @@
+.setting-main {
+    display: block;
+    height: 650px;
+    width: 350px;
+    margin: 1px auto auto auto;
+   
+}
+
+.setimg img{
+    height: 70px;
+    width: 70px;
+   border-radius: 50%;
+}
+
+.setimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.device-version{
+    margin: 35px auto 20px 10px
+}
+
+.set-body-btn div{
+    display: grid; 
+}
+
+.btn-lg button{
+  
+    height: 45px;
+    width: 160px;
+    margin: 10px 5px 5px auto;
+    border-radius: 120px;
+    font-size: 15px;
+    padding: 8px;
+    background-color: rgb(58, 158, 224);
+    color: white;
+}
+.btn-sm button{
+  
+    height: 45px;
+    width: 110px;
+    margin: 5px 5px 5px auto;
+    border-radius: 120px;
+    font-size: 15px;
+    padding: 8px;
+    background-color:rgb(58, 158, 224);
+    color: white;
+}
+hr{
+    height: 5px;
+ color: black;
+}
+
+.privacy-policy{
+    margin: 5px 5px 5px auto;
+}
+
+
+button{
+
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+
